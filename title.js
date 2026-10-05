@@ -1,1 +1,1 @@
-const title = 'original';
+const title = 'Version A';
